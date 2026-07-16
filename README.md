@@ -28,3 +28,8 @@ Skills Demonstrated
 Business Insights
 
 The dashboard helps identify top-performing cities and brands, understand customer payment preferences, monitor sales trends over time, and track overall business performance through interactive visualizations.
+
+#Dashboard 
+<img width="1516" height="852" alt="image" src="https://github.com/user-attachments/assets/40e207ea-fa04-4fc9-995b-20405def3068" />
+
+
